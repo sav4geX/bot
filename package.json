@@ -1,0 +1,21 @@
+{
+  "name": "1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "common-tags": "^1.8.0",
+    "enmap": "^5.2.4",
+    "mongodb": "^3.5.2",
+    "mongoose": "^5.9.22",
+    "nodejs": "0.0.0",
+    "quickdb": "^1.0.5",
+    "weighted-random": "^0.1.0"
+  }
+}
